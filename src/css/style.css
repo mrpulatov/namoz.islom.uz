@@ -1,3 +1,12 @@
+.head{
+	padding-top: 20px;
+	height: 80px;
+	background-image: linear-gradient(to right, #3070A1,  #00AEEF );
+
+}
+
+
+
 .lang_button{
 	height: 40px;
 	width: 40px;
@@ -8,11 +17,23 @@
 	display: flex;
 	justify-content: center;
 	color: #424242;
+	display: inline-block;
 }
-
+.block-link{
+	display: block;
+	text-decoration: none;
+	color: #fff;
+}
+.white{
+	color:white;
+}
+.block-link:hover{
+	color:white;
+}
 .lang_button:hover{
 	background-color: #424242;
 	color: white;
+
 }
 .shadow_footer{
 	box-shadow: 2px 2px 5px #424242;
