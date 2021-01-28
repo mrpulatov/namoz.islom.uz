@@ -1,3 +1,29 @@
+.text_block{
+	padding-top: 30px;
+	padding-left: 50px;
+}
+.head_text{
+	font-weight: bold;
+}
+
+.step_button{
+	height: 50px;
+	border-radius: 25px;
+	width: 290px;
+	border:3px solid#f0f0f0;
+	background-color: white;
+	margin-bottom: 20px;
+}
+
+.step_button:hover{
+	background-color: #f0f0f0;
+}
+
+.steps_block{
+	margin-top: 30px;
+}
+
+
 .head{
 	padding-top: 20px;
 	height: 80px;
@@ -10,6 +36,7 @@
 .lang_button{
 	height: 40px;
 	width: 40px;
+	padding-top: 1px;
 	border-radius: 20px;
 	margin-left: 10px;
 	border: solid #CACED5; 
