@@ -1,3 +1,30 @@
+.footer-button{
+	height: 50px;
+	border-radius: 25px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	border: 2px solid white;
+	margin-top: 25px;
+}
+.footer-button img {
+	margin-right: 20px;
+}
+.footer-button:hover{
+	box-shadow: 4px 3px 8px 1px #969696;
+}
+a {
+	text-decoration: none !important;
+	color:white !important;
+}
+.footer{
+	height: 100px;
+	background-color: #f0f0f0
+}
+.back_button a{
+	color:black !important;
+}
+
 .text_block{
 	padding-top: 30px;
 	padding-left: 50px;
@@ -17,6 +44,12 @@
 
 .step_button:hover{
 	background-color: #f0f0f0;
+}
+.step-active{
+	border:3px solid blue;
+}
+.step_button:active{
+	outline: none;
 }
 
 .steps_block{
@@ -84,12 +117,24 @@
 }
 .tah{
 	background-image: url("../img/Rectangle 1553.png"), linear-gradient(to right, #3070A1,  #00AEEF );
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
 }
 .erk{
 	background-image: url("../img/Mask Group 1.png"), linear-gradient(to right, #0C961D,  #3CDF50 );
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+.men{
+	background-image: linear-gradient(to right, #0C961D,  #3CDF50 );
 }
 .ayl{
 	background-image: url("../img/Mask Group 3.png"), linear-gradient(to right,#CA47C1, #FF7BB3);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+.women{
+	background-image: linear-gradient(to right,#CA47C1, #FF7BB3);
 }
 .line{
 	margin-top: 20px; 
