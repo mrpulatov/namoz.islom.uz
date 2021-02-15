@@ -24,7 +24,6 @@ a {
 .back_button a{
 	color:black !important;
 }
-
 .text_block{
 	padding-top: 30px;
 	padding-left: 50px;
@@ -32,7 +31,6 @@ a {
 .head_text{
 	font-weight: bold;
 }
-
 .step_button{
 	height: 50px;
 	border-radius: 25px;
@@ -41,7 +39,6 @@ a {
 	background-color: white;
 	margin-bottom: 20px;
 }
-
 .step_button:hover{
 	background-color: #f0f0f0;
 }
@@ -51,21 +48,14 @@ a {
 .step_button:active{
 	outline: none;
 }
-
 .steps_block{
 	margin-top: 30px;
 }
-
-
 .head{
 	padding-top: 20px;
 	height: 80px;
 	background-image: linear-gradient(to right, #3070A1,  #00AEEF );
-
 }
-
-
-
 .lang_button{
 	height: 40px;
 	width: 40px;
@@ -93,7 +83,6 @@ a {
 .lang_button:hover{
 	background-color: #424242;
 	color: white;
-
 }
 .shadow_footer{
 	box-shadow: 2px 2px 5px #424242;
@@ -153,6 +142,4 @@ a {
 	align-items: center;
 	display: flex;
 	justify-content: center;
-
-
 }
