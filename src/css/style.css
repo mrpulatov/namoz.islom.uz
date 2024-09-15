@@ -1,0 +1,145 @@
+.footer-button{
+	height: 50px;
+	border-radius: 25px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	border: 2px solid white;
+	margin-top: 25px;
+}
+.footer-button img {
+	margin-right: 20px;
+}
+.footer-button:hover{
+	box-shadow: 4px 3px 8px 1px #969696;
+}
+a {
+	text-decoration: none !important;
+	color:white !important;
+}
+.footer{
+	height: 100px;
+	background-color: #f0f0f0
+}
+.back_button a{
+	color:black !important;
+}
+.text_block{
+	padding-top: 30px;
+	padding-left: 50px;
+}
+.head_text{
+	font-weight: bold;
+}
+.step_button{
+	height: 50px;
+	border-radius: 25px;
+	width: 290px;
+	border:3px solid#f0f0f0;
+	background-color: white;
+	margin-bottom: 20px;
+}
+.step_button:hover{
+	background-color: #f0f0f0;
+}
+.step-active{
+	border:3px solid blue;
+}
+.step_button:active{
+	outline: none;
+}
+.steps_block{
+	margin-top: 30px;
+}
+.head{
+	padding-top: 20px;
+	height: 80px;
+	background-image: linear-gradient(to right, #3070A1,  #00AEEF );
+}
+.lang_button{
+	height: 40px;
+	width: 40px;
+	padding-top: 1px;
+	border-radius: 20px;
+	margin-left: 10px;
+	border: solid #CACED5; 
+	align-items: center;
+	display: flex;
+	justify-content: center;
+	color: #424242;
+	display: inline-block;
+}
+.block-link{
+	display: block;
+	text-decoration: none;
+	color: #fff;
+}
+.white{
+	color:white;
+}
+.block-link:hover{
+	color:white;
+}
+.lang_button:hover{
+	background-color: #424242;
+	color: white;
+}
+.shadow_footer{
+	box-shadow: 2px 2px 5px #424242;
+	border-radius: 10px;
+}
+.footer_margin{
+	margin-left: 20px;
+}
+.apps {
+      left: auto !important;
+      right: 0px !important;
+}
+.box{
+	border-radius: 10px;
+	height: 160px;
+	color: white;
+	margin: 10px;
+	align-items: center;
+	display: flex;
+	justify-content: center;
+}
+.tah{
+	background-image: url("../img/Rectangle 1553.png"), linear-gradient(to right, #3070A1,  #00AEEF );
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+.erk{
+	background-image: url("../img/Mask Group 1.png"), linear-gradient(to right, #0C961D,  #3CDF50 );
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+.men{
+	background-image: linear-gradient(to right, #0C961D,  #3CDF50 );
+}
+.ayl{
+	background-image: url("../img/Mask Group 3.png"), linear-gradient(to right,#CA47C1, #FF7BB3);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+.women{
+	background-image: linear-gradient(to right,#CA47C1, #FF7BB3);
+}
+.line{
+	margin-top: 20px; 
+}
+.logo{
+	margin-left: 10%;
+}
+.svg_icon{
+	margin: 10px;
+}
+.button_sorce{
+	border-radius: 30px;
+	height: 60px;
+	width: 250px;
+	border: solid #CACED5;
+	align-items: center;
+	display: flex;
+	justify-content: center;
+}
